@@ -29,4 +29,4 @@ Busco sempre aprender, evoluir e me conectar com profissionais que usam os dados
   - Código simples, mas bem robusto que utiliza bem a base conceitual de condicionais, funções e loops.
 
 # Meus Contatos
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/dinaldo-gustavo)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/dinaldo-gustavo)
