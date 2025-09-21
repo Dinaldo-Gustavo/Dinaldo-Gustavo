@@ -22,8 +22,8 @@ Busco sempre aprender, evoluir e me conectar com profissionais que usam os dados
 - **[Pedra Papel e Tesoura]()**
   - Simples jogo de Pedra, Papel e Tesoura, sendo esse o meu primeiro projeto pessoal.
 
--**[Jogo da Forca]()**
-  - Um dos projetos mais difíceis de ser aplicado, que embora pareça simples precisou de bastante revisões também utilizando POO.
+-**[Jogo da Forca]()**  
+  -  Um dos projetos mais difíceis de ser aplicado, que embora pareça simples precisou de bastante revisões também utilizando POO.
 
 -**[Conversor de Real para Dólar e vice-versa]()**
   - Código simples, mas bem robusto que utiliza bem a base conceitual de condicionais, funções e loops.
