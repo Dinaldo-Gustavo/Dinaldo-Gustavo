@@ -13,19 +13,19 @@ Busco sempre aprender, evoluir e me conectar com profissionais que usam os dados
 ![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
 
 # Meus Principais Projetos
-- **[Gerador de Senhas POO]()**
+- **[Gerador de Senhas POO](https://github.com/Dinaldo-Gustavo/projeto_gerador_senhas)**
   - Uma aplicação em Python que utiliza Programação Orientada a Objetos para gerar senhas de forma segura e personalizável pelo usuário.
 
-- **[Calculadora com POO e Tratamento de Erros]()**
+- **[Calculadora com POO e Tratamento de Erros](https://github.com/Dinaldo-Gustavo/projeto_calculadora)**
   - Uma calculadora interativa em Python, que demonstra o uso de classes, loops e, o mais importante, blocos `try/except` (verificadores de erros) para tornar o código mais otimizado.
 
 - **[Pedra Papel e Tesoura](https://github.com/Dinaldo-Gustavo/projeto_pedra_papel_tesoura)**
   - Simples jogo de Pedra, Papel e Tesoura, sendo esse o meu primeiro projeto pessoal.
 
-- **[Jogo da Forca]()**  
+- **[Jogo da Forca](https://github.com/Dinaldo-Gustavo/projeto_jogo_forca)**  
   - Um dos projetos mais difíceis de ser aplicado, que embora pareça simples precisou de bastante revisões também utilizando POO.
 
-- **[Conversor de Real para Dólar e vice-versa]()**
+- **[Conversor de Real para Dólar e vice-versa](https://github.com/Dinaldo-Gustavo/projeto_taxa_cambio)**
   - Código simples, mas bem robusto que utiliza bem a base conceitual de condicionais, funções e loops.
 
 # Meu Contato
