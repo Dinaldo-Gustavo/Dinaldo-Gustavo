@@ -19,7 +19,7 @@ Busco sempre aprender, evoluir e me conectar com profissionais que usam os dados
 - **[Calculadora com POO e Tratamento de Erros]()**
   - Uma calculadora interativa em Python, que demonstra o uso de classes, loops e, o mais importante, blocos `try/except` (verificadores de erros) para tornar o código mais otimizado.
 
-- **[Pedra Papel e Tesoura]()**
+- **[Pedra Papel e Tesoura](https://github.com/Dinaldo-Gustavo/projeto_pedra_papel_tesoura)**
   - Simples jogo de Pedra, Papel e Tesoura, sendo esse o meu primeiro projeto pessoal.
 
 - **[Jogo da Forca]()**  
